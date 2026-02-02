@@ -3,13 +3,16 @@
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 🔭 I’m currently working on a web application that can solve Sudoku much more accurately than your typical LLM's **Sudoku Solver**
+- 🔭 I’m currently working on a web application that can solve Sudoku much more accurately than your typical LLM's.
 
-- 🌱 I’m currently learning Java, Spring boot and honing my problem-solving skills and understanding of data structures and algorithms. **Mainly learnt Web Development from Angela Yu's course on udemy and currently enrolled in a bootcamp to become a full stack java developer.**
+- 🌱 I’m currently learning Java, Spring Boot, and honing my problem-solving skills and understanding of data structures and algorithms. **Mainly learnt Web Development from Angela Yu's course on udemy and currently enrolled in a bootcamp to become a full stack java developer.**
 
 - 👨‍💻 All of my projects are available at [https://thisisnikhil.vercel.app/](https://thisisnikhil.vercel.app/)
 
 - 📫 How to reach me **nikhilmanjunm@gmail.com**
+
+## 🧠 LeetCode Stats
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=HxvnlyDxmon&theme=dark)
 
 <p align="left">
 </p>
