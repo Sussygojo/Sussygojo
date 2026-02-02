@@ -12,7 +12,7 @@
 - 📫 How to reach me **nikhilmanjunm@gmail.com**
 
 ## 🧠 LeetCode Stats
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=HxvnlyDxmon&theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/HxvnlyDxmon?theme=dark&font=Noto%20Sans%20Old%20Italic&ext=heatmap)
 
 <p align="left">
 </p>
