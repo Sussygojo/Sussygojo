@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
-<h3 align="center">A passionate web developer from India</h3>
 
 
 - 🌱 I’m currently learning Java, Spring Boot, and honing my problem-solving skills and understanding of data structures and algorithms. **Mainly learnt Web Development from Angela Yu's course on udemy and currently enrolled in a bootcamp to become a full stack java developer.**
